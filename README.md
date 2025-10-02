@@ -58,5 +58,5 @@ While building this project, I gained hands-on experience with:
 ## ⚡ Quick start (development)
 1. Clone repo
 ```bash
-git clone https://github.com/<https://github.com/dikshantnanwate94-prog>/smart-grocery-reminder.git
-cd smart-grocery-reminder
+git clone https://github.com/dikshantnanwate94-prog/Smart-grocery-reminder.git
+cd Smart-grocery-reminder
