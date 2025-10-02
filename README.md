@@ -4,7 +4,7 @@ Smart Grocery Reminder is a full-stack application designed to simplify grocery 
 This project combines practicality with modern web development technologies, offering a seamless and intuitive way to manage groceries at home.
 
 
-##🚀 What It Does
+## 🚀 What It Does
 -Tracks grocery items with expiry dates.
 -Accepts input either manually or through receipt scanning (OCR).
 -Stores all data in a PostgreSQL database.
@@ -12,14 +12,14 @@ This project combines practicality with modern web development technologies, off
 -Provides a React-based dashboard for monitoring groceries with filters, search, and sorting.
 
 
-##💡 Why It’s Useful
+## 💡 Why It’s Useful
 Food waste is a growing global issue. Many people forget what groceries they bought or when items will expire. This app acts as a personal grocery assistant, helping users:
 -Save money by reducing waste.
 -Stay organized with a clear view of what’s in stock.
 -Get timely notifications to use groceries before expiry.
 
 
-##✨ Features
+## ✨ Features
 - Add groceries manually or by scanning a receipt (OCR)
 - Store items with expiry dates in PostgreSQL
 - Automated reminders (email and SMS)
@@ -27,7 +27,7 @@ Food waste is a growing global issue. Many people forget what groceries they bou
 - Docker-ready for local development
 
 
-##🛠 Tech stack
+## 🛠 Tech stack
 - Frontend: React (Vite) + Tailwind CSS
 - Backend: Node.js + Express
 - Database: PostgreSQL with Prisma ORM
@@ -36,7 +36,7 @@ Food waste is a growing global issue. Many people forget what groceries they bou
 - Scheduler: `node-cron` or background worker (Bull + Redis)
 
 
-##📚 What I Learned
+## 📚 What I Learned
 While building this project, I gained hands-on experience with:
 -Full-stack development (React, Node.js, PostgreSQL).
 -Database design with Prisma ORM.
@@ -46,7 +46,7 @@ While building this project, I gained hands-on experience with:
 -Containerization using Docker for simplified deployment.
 
 
-##🔮 Possible Future Improvements
+## 🔮 Possible Future Improvements
 -📱 Develop a mobile app version (React Native / Flutter).
 -🛒 Integration with popular e-commerce grocery APIs for auto-fetching receipts.
 -🌐 Multi-language support for international users.
@@ -55,7 +55,7 @@ While building this project, I gained hands-on experience with:
 -👨‍👩‍👧 Shared family accounts with collaborative grocery tracking.
 
 
-##⚡ Quick start (development)
+## ⚡ Quick start (development)
 1. Clone repo
 ```bash
 git clone https://github.com/<https://github.com/dikshantnanwate94-prog>/smart-grocery-reminder.git
